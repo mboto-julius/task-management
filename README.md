@@ -90,3 +90,14 @@ Open in browser:
 ```
 http://127.0.0.1:8000
 ```
+
+---
+
+## 📋 How to Use
+
+### Reordering Tasks
+
+1. Navigate to **Projects** page
+2. Click the **Show** button on a project
+3. View all tasks assigned to that project
+4. **Drag and drop** tasks to reorder them
