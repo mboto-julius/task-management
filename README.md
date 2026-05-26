@@ -41,7 +41,6 @@ cd task-management
 
 ```bash
 composer install
-npm install
 ```
 
 ### 3. Create environment file
